@@ -1,0 +1,35 @@
+_repo: Through-the-Postern-Gate--A-Romance-in-Seven-Days_33309
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Roy, Brandon
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: In the charming romance novel Through the Postern Gate, author Florence
+  Barclay pulls off a seemingly unimaginable feat, combining the intense emotions
+  and roiling passions of a classic love story with unconventional, sharply drawn
+  characters and a pair of unlikely sweethearts. If you're weary of modern cookie-cutter
+  romance novels, give this refreshingly innovative take on the genre a try.
+gutenberg_issued: '2010-07-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33309'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Love stories'
+title: 'Through the Postern Gate: A Romance in Seven Days'
+url: http://www.gutenberg.org/ebooks/33309
